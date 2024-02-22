@@ -1,0 +1,171 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET / HTTP/1.1" 200 1030
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /product_print/ HTTP/1.1" 200 2918
+"GET / HTTP/1.1" 200 1030
+D:\־ׁ 2סול\WEB\os6\os6\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /product_print/ HTTP/1.1" 200 2918
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /product_print/ HTTP/1.1" 200 2918
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /create_store/ HTTP/1.1" 200 1644
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /product_print/ HTTP/1.1" 200 2921
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET / HTTP/1.1" 200 1030
+"GET / HTTP/1.1" 200 1030
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1030
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /category_print/ HTTP/1.1" 200 2943
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1030
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET / HTTP/1.1" 200 1030
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET /category_print/ HTTP/1.1" 200 2943
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1030
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /product_print/ HTTP/1.1" 200 2921
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Invalid HTTP_HOST header: '192.168.222.4:8000'. You may need to add '192.168.222.4' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\WEB\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\WEB\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\WEB\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\WEB\venv\Lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '192.168.222.4:8000'. You may need to add '192.168.222.4' to ALLOWED_HOSTS.
+Bad Request: /
+"GET / HTTP/1.1" 400 69313
+Invalid HTTP_HOST header: '192.168.222.4:8000'. You may need to add '192.168.222.4' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "C:\Users\Professional\Desktop\WEB\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\WEB\venv\Lib\site-packages\django\utils\deprecation.py", line 133, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\WEB\venv\Lib\site-packages\django\middleware\common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Professional\Desktop\WEB\venv\Lib\site-packages\django\http\request.py", line 150, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: '192.168.222.4:8000'. You may need to add '192.168.222.4' to ALLOWED_HOSTS.
+Bad Request: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 400 69721
+C:\Users\Professional\Desktop\WEB\os6\os6\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5554
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /22/edit_store HTTP/1.1" 200 2038
+"POST /22/edit_store HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2907
+"GET /22/edit_store HTTP/1.1" 200 2040
+"POST /22/edit_store HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /22/edit_store HTTP/1.1" 200 2038
+"POST /22/edit_store HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 1030
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /create_price/ HTTP/1.1" 200 16625
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2907
+"GET /create_store/ HTTP/1.1" 200 1644
+Watching for file changes with StatReloader
+"GET /create_store/ HTTP/1.1" 200 1644
+"GET /create_store/ HTTP/1.1" 200 1644
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2907
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5554
+"GET / HTTP/1.1" 200 1030
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5556
+"GET / HTTP/1.1" 200 1030
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5550
+"GET / HTTP/1.1" 200 1030
+"GET / HTTP/1.1" 200 1030
+"GET /static/main/css/style.css HTTP/1.1" 200 1253
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 5553
+"GET /store_print/ HTTP/1.1" 200 2907
+"GET /store_print/ HTTP/1.1" 200 2907
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /product_print/ HTTP/1.1" 200 2921

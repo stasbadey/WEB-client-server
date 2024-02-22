@@ -1,0 +1,991 @@
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir D:\־ׁ 2סול\WEB\os6\main\templates with glob **/*.
+Watching dir D:\־ׁ 2סול\WEB\os6\locale with glob **/*.mo.
+Watching dir D:\־ׁ 2סול\WEB\os6\main\locale with glob **/*.mo.
+Watching dir C:\Program Files (x86)\Inter\lib\site-packages\djmoney\locale with glob **/*.mo.
+(0.000) 
+            SELECT name, type FROM sqlite_master
+            WHERE type in ('table', 'view') AND NOT name='sqlite_sequence'
+            ORDER BY name; args=None
+(0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=()
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\admin.py first seen with mtime 1669061124.6536968
+File C:\Program Files (x86)\Inter\Lib\ssl.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\numbers.py first seen with mtime 1683833126.861509
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\templatetags\__init__.py first seen with mtime 1669061123.7935584
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\backends.py first seen with mtime 1669061124.2098424
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\security\csrf.py first seen with mtime 1669061127.4163425
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\views.py first seen with mtime 1669061124.6647058
+File C:\Program Files (x86)\Inter\Lib\posixpath.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\sre_constants.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\utils.py first seen with mtime 1669061128.039183
+File C:\Program Files (x86)\Inter\Lib\http\cookies.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\socketserver.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\enums.py first seen with mtime 1669061127.7004693
+File C:\Program Files (x86)\Inter\Lib\urllib\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\defaultfilters.py first seen with mtime 1669061128.0181775
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\password_validation.py first seen with mtime 1669061124.2338479
+File C:\Program Files (x86)\Inter\Lib\types.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\xml\parsers\expat.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\simplejson\__init__.py first seen with mtime 1669061098.838634
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\admin.py first seen with mtime 1683833128.654448
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\reverse.py first seen with mtime 1669061154.187683
+File C:\Program Files (x86)\Inter\Lib\asyncio\queues.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\colorama\win32.py first seen with mtime 1681401776.978073
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\conf\urls\__init__.py first seen with mtime 1669061122.279063
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\more_itertools\recipes.py first seen with mtime 1668811363.693146
+File C:\Program Files (x86)\Inter\Lib\keyword.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreschema\utils.py first seen with mtime 1486549794.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\codecs\__init__.py first seen with mtime 1669061165.498155
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\html.py first seen with mtime 1669061154.80382
+File C:\Program Files (x86)\Inter\Lib\xml\sax\_exceptions.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\email\mime\nonmultipart.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\templatetags\djmoney.py first seen with mtime 1683833128.737466
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\__init__.py first seen with mtime 1669061126.223979
+File C:\Program Files (x86)\Inter\Lib\unittest\suite.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\serializer.py first seen with mtime 1669061099.8052797
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\html.py first seen with mtime 1669061128.1472068
+File C:\Program Files (x86)\Inter\Lib\nturl2path.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\typing_extensions.py first seen with mtime 1669061098.505715
+File C:\Program Files (x86)\Inter\Lib\contextvars.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\colorama\ansitowin32.py first seen with mtime 1681401776.9650688
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\translation\__init__.py first seen with mtime 1669061128.1882155
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\response.py first seen with mtime 1669061098.0934706
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\markupsafe\__init__.py first seen with mtime 1669061111.1171055
+File C:\Program Files (x86)\Inter\Lib\pprint.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\urls\base.py first seen with mtime 1669061128.0911853
+File C:\Program Files (x86)\Inter\Lib\_collections_abc.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\indexes.py first seen with mtime 1669061127.706471
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\hashers.py first seen with mtime 1669061124.2238474
+File C:\Program Files (x86)\Inter\Lib\statistics.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\widgets.py first seen with mtime 1669061122.3250725
+File C:\Program Files (x86)\Inter\Lib\abc.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\sql\where.py first seen with mtime 1669061127.8006942
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\urls\conf.py first seen with mtime 1669061128.0931947
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\parser.py first seen with mtime 1669061099.789578
+File C:\Program Files (x86)\Inter\Lib\xml\dom\minidom.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\smartif.py first seen with mtime 1669061128.0371816
+File D:\־ׁ 2סול\WEB\os6\main\models.py first seen with mtime 1683902466.5729303
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\encoding.py first seen with mtime 1669061128.137204
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\representation.py first seen with mtime 1669061154.811561
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\handlers.py first seen with mtime 1669061127.3496287
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\sites.py first seen with mtime 1669061122.3160715
+File C:\Program Files (x86)\Inter\Lib\importlib\resources.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\middleware.py first seen with mtime 1669061126.7462635
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\simplejson\errors.py first seen with mtime 1669061098.8596437
+File C:\Program Files (x86)\Inter\Lib\asyncio\base_subprocess.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\hashable.py first seen with mtime 1669061128.1451983
+File C:\Program Files (x86)\Inter\Lib\email\_parseaddr.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\datastructures.py first seen with mtime 1669061128.1202009
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\loaders\base.py first seen with mtime 1669061128.0511851
+File C:\Program Files (x86)\Inter\Lib\http\server.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\selectors.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\unittest\runner.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\test\__init__.py first seen with mtime 1669061128.067188
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\handlers\exception.py first seen with mtime 1669061127.4403477
+File C:\Program Files (x86)\Inter\DLLs\_lzma.pyd first seen with mtime 1665496766.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\simplejson\_speedups.cp310-win_amd64.pyd first seen with mtime 1669061098.8426397
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\constructor.py first seen with mtime 1669061099.7714894
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\exceptions.py first seen with mtime 1669061165.495162
+File C:\Program Files (x86)\Inter\Lib\copy.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\html\parser.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\utils.py first seen with mtime 1669061165.4961624
+File C:\Program Files (x86)\Inter\Lib\unittest\main.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\logging\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\status.py first seen with mtime 1669061154.1986651
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\core.py first seen with mtime 1683833126.8265011
+File C:\Program Files (x86)\Inter\DLLs\_sqlite3.pyd first seen with mtime 1665496764.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\resolver.py first seen with mtime 1669061099.798278
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\url.py first seen with mtime 1669061098.1063237
+File C:\Program Files (x86)\Inter\Lib\email\mime\__init__.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\unittest\loader.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\apps.py first seen with mtime 1669061124.2088416
+File C:\Program Files (x86)\Inter\Lib\encodings\aliases.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\pickle.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\__init__.py first seen with mtime 1669061127.3716345
+File D:\־ׁ 2סול\WEB\os6\main\admin.py first seen with mtime 1683833285.1828847
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\settings.py first seen with mtime 1669061154.1966796
+File C:\Program Files (x86)\Inter\Lib\asyncio\log.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\markupsafe\_speedups.cp310-win_amd64.pyd first seen with mtime 1669061111.122763
+File D:\־ׁ 2סול\WEB\os6\main\views.py first seen with mtime 1683901423.3489575
+File C:\Program Files (x86)\Inter\Lib\json\encoder.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\filters\reindent.py first seen with mtime 1669061098.5963037
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\idna\core.py first seen with mtime 1669061112.7536585
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\compat.py first seen with mtime 1669061154.1452608
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\cache\__init__.py first seen with mtime 1669061127.3841147
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\urls\converters.py first seen with mtime 1669061128.0961907
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\decorators\cache.py first seen with mtime 1669061128.2142212
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\validation.py first seen with mtime 1669061127.560438
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\servers\basehttp.py first seen with mtime 1669061127.5264304
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\models\managers.py first seen with mtime 1683833128.727458
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\operations\base.py first seen with mtime 1669061127.6694627
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\__init__.py first seen with mtime 1669061124.2038405
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\backends\django.py first seen with mtime 1669061128.0431838
+File C:\Program Files (x86)\Inter\Lib\argparse.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\client.py first seen with mtime 1669061127.5434344
+File C:\Program Files (x86)\Inter\Lib\ctypes\__init__.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\textwrap.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\mimetypes.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\xml\dom\__init__.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\moneyed\__init__.py first seen with mtime 1683833128.5864277
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\forms.py first seen with mtime 1669061127.8146923
+File C:\Program Files (x86)\Inter\Lib\asyncio\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\psycopg2\_ipaddress.py first seen with mtime 1669061101.5203156
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\fields.py first seen with mtime 1669061098.0502079
+File C:\Program Files (x86)\Inter\Lib\concurrent\futures\__init__.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\bisect.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\contrib\django_rest_framework\fields.py first seen with mtime 1683833128.6744516
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\ssltransport.py first seen with mtime 1669061098.1024733
+File D:\־ׁ 2סול\WEB\os6\manage.py first seen with mtime 1683829868.84772
+File C:\Program Files (x86)\Inter\Lib\email\mime\text.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\operations.py first seen with mtime 1669061127.5534375
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\pytz\exceptions.py first seen with mtime 1669061089.6137257
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\fields.py first seen with mtime 1669061124.658691
+File C:\Program Files (x86)\Inter\Lib\urllib\parse.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\sql.py first seen with mtime 1669061098.5748608
+File C:\Program Files (x86)\Inter\Lib\site.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\middleware\__init__.py first seen with mtime 1669061127.9901626
+File C:\Program Files (x86)\Inter\Lib\urllib\response.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\email\encoders.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\mail\message.py first seen with mtime 1669061127.4453492
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\_manylinux.py first seen with mtime 1668811363.7055206
+File C:\Program Files (x86)\Inter\Lib\site-packages\colorama\winterm.py first seen with mtime 1681401776.9860723
+File C:\Program Files (x86)\Inter\Lib\uu.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\apps.py first seen with mtime 1669061124.6557038
+File C:\Program Files (x86)\Inter\Lib\zipfile.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\cd.py first seen with mtime 1669061114.090011
+File C:\Program Files (x86)\Inter\Lib\email\policy.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\exceptions.py first seen with mtime 1668811363.7901688
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\urls\exceptions.py first seen with mtime 1669061128.0971956
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py first seen with mtime 1668811363.7291358
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\__init__.py first seen with mtime 1669061116.0957127
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\sqlite3\__init__.py first seen with mtime 1669061127.6164508
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\__init__.py first seen with mtime 1669061098.0352113
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\urls\utils.py first seen with mtime 1669061128.1011963
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\serializers.py first seen with mtime 1683833128.6624424
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\fields\jsonb.py first seen with mtime 1669061126.2522514
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\__init__.py first seen with mtime 1669061119.3847797
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\__init__.py first seen with mtime 1669061154.7937634
+File C:\Program Files (x86)\Inter\Lib\email\_encoded_words.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\translation\reloader.py first seen with mtime 1669061128.191216
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\cache.py first seen with mtime 1669061128.11435
+File C:\Program Files (x86)\Inter\Lib\secrets.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\api.py first seen with mtime 1669061126.2079754
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\__init__.py first seen with mtime 1669061127.6844666
+File C:\Program Files (x86)\Inter\Lib\_markupbase.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\__init__.py first seen with mtime 1669061124.6526918
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\connection.py first seen with mtime 1669061128.1162
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\asgiref\local.py first seen with mtime 1669061114.6460865
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\apps.py first seen with mtime 1683833128.656448
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\utils.py first seen with mtime 1669061126.2382483
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\temp.py first seen with mtime 1669061127.4283452
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\functions\window.py first seen with mtime 1669061127.779684
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\forms\__init__.py first seen with mtime 1669061126.2572432
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\baseconv.py first seen with mtime 1669061128.1121912
+File C:\Program Files (x86)\Inter\Lib\site-packages\moneyed\classes.py first seen with mtime 1683833128.5884323
+File C:\Program Files (x86)\Inter\Lib\signal.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\base.py first seen with mtime 1669061128.0091667
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\dateformat.py first seen with mtime 1669061128.1232016
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\helpers.py first seen with mtime 1669061122.3040679
+File C:\Program Files (x86)\Inter\DLLs\_socket.pyd first seen with mtime 1665496764.0
+File C:\Program Files (x86)\Inter\Lib\calendar.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\sqlite3\introspection.py first seen with mtime 1669061127.6254535
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\http\__init__.py first seen with mtime 1669061127.9791806
+File C:\Program Files (x86)\Inter\Lib\genericpath.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\events.py first seen with mtime 1669061099.785493
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\models.py first seen with mtime 1669061122.308069
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\security\base.py first seen with mtime 1669061127.4143412
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\management\commands\__init__.py first seen with mtime 1669061127.471355
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\sqlite3\creation.py first seen with mtime 1669061127.6224523
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\__init__.py first seen with mtime 1683833128.6484468
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\related.py first seen with mtime 1669061127.7494736
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\generic\__init__.py first seen with mtime 1669061128.227224
+File C:\Program Files (x86)\Inter\Lib\email\__init__.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\urllib\error.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreschema\schemas.py first seen with mtime 1486556597.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\http\cookie.py first seen with mtime 1669061127.980169
+File C:\Program Files (x86)\Inter\Lib\importlib\readers.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\__init__.py first seen with mtime 1669061098.5588517
+File C:\Program Files (x86)\Inter\Lib\decimal.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\async_checks.py first seen with mtime 1669061127.4000912
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1669061127.6234522
+File D:\־ׁ 2סול\WEB\os6\os6\__init__.py first seen with mtime 1683829868.8637333
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\pytz\tzfile.py first seen with mtime 1669061089.6197274
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\timeout.py first seen with mtime 1669061098.1043415
+File C:\Program Files (x86)\Inter\Lib\xml\sax\saxutils.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\defaults.py first seen with mtime 1669061128.2072196
+File C:\Program Files (x86)\Inter\Lib\locale.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\options.py first seen with mtime 1669061127.7164736
+File C:\Program Files (x86)\Inter\Lib\asyncio\futures.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\paginator.py first seen with mtime 1669061127.374636
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\views\autocomplete.py first seen with mtime 1669061123.8085425
+File C:\Program Files (x86)\Inter\Lib\unittest\util.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\sqlite3\schema.py first seen with mtime 1669061127.6304536
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\templates.py first seen with mtime 1669061127.4083498
+File C:\Program Files (x86)\Inter\Lib\asyncio\sslproto.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\format_helpers.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\library.py first seen with mtime 1669061128.029182
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\test\utils.py first seen with mtime 1669061128.0873322
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\regex_helper.py first seen with mtime 1669061128.1692114
+File C:\Program Files (x86)\Inter\Lib\importlib\_abc.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\composer.py first seen with mtime 1669061099.7694902
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\runtime.py first seen with mtime 1669061119.4307747
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\operations\models.py first seen with mtime 1669061127.676464
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\apps\config.py first seen with mtime 1669061121.636387
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\codecs\display.py first seen with mtime 1669061165.5041556
+File C:\Program Files (x86)\Inter\Lib\ctypes\_endian.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\management\__init__.py first seen with mtime 1669061124.9488232
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\itypes.py first seen with mtime 1669061091.6371908
+File C:\Program Files (x86)\Inter\Lib\numbers.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\__init__.py first seen with mtime 1669061127.6334546
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\numberformat.py first seen with mtime 1669061128.1672027
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\apps.py first seen with mtime 1669061127.345628
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\aggregates.py first seen with mtime 1669061127.68646
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\dumper.py first seen with mtime 1669061099.7774909
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\datetime_safe.py first seen with mtime 1669061128.1291938
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\filters\aligned_indent.py first seen with mtime 1669061098.5912924
+File C:\Program Files (x86)\Inter\Lib\email\errors.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\csrf.py first seen with mtime 1669061128.200218
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\__init__.py first seen with mtime 1669061127.732477
+File C:\Program Files (x86)\Inter\Lib\asyncio\trsock.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\pytz\tzinfo.py first seen with mtime 1669061089.6227345
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\defaults.py first seen with mtime 1669061119.397781
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\__init__.py first seen with mtime 1669061127.3446279
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\cache\utils.py first seen with mtime 1669061127.385117
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\transaction.py first seen with mtime 1669061127.5294316
+File C:\Program Files (x86)\Inter\Lib\site-packages\_distutils_hack\__init__.py first seen with mtime 1668811363.6032677
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\templatetags\i18n.py first seen with mtime 1669061128.059183
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\packages\six.py first seen with mtime 1669061098.0815444
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\structures.py first seen with mtime 1669061116.1304648
+File D:\־ׁ 2סול\WEB\os6\main\apps.py first seen with mtime 1683830025.3961587
+File C:\Program Files (x86)\Inter\Lib\unittest\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\formats.py first seen with mtime 1669061128.1412058
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\servers\__init__.py first seen with mtime 1669061127.52543
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\cache\backends\__init__.py first seen with mtime 1669061127.3871148
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\constraints.py first seen with mtime 1669061127.6954684
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\generic\edit.py first seen with mtime 1669061128.2392268
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\validators.py first seen with mtime 1669061154.2100737
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\functions\math.py first seen with mtime 1669061127.7736845
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\_winconsole.py first seen with mtime 1669061133.8080666
+File C:\Program Files (x86)\Inter\Lib\encodings\idna.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\serializers\pyyaml.py first seen with mtime 1669061127.5214303
+File C:\Program Files (x86)\Inter\Lib\_sitebuiltins.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\constants.py first seen with mtime 1669061126.210976
+File C:\Program Files (x86)\Inter\Lib\site-packages\moneyed\utils.py first seen with mtime 1683833128.5984287
+File C:\Program Files (x86)\Inter\Lib\gettext.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\wsgiref\headers.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\tags.py first seen with mtime 1668811363.7359085
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\sql\subqueries.py first seen with mtime 1669061127.7987473
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\loaders\filesystem.py first seen with mtime 1669061128.0541782
+File C:\Program Files (x86)\Inter\Lib\html\entities.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\DLLs\_uuid.pyd first seen with mtime 1665496764.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\middleware\csrf.py first seen with mtime 1669061127.9981737
+File D:\־ׁ 2סול\WEB\os6\main\__init__.py first seen with mtime 1683830025.4051623
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\forms.py first seen with mtime 1669061124.2208524
+File C:\Program Files (x86)\Inter\DLLs\_asyncio.pyd first seen with mtime 1665496766.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\__init__.py first seen with mtime 1683833126.823496
+File C:\Program Files (x86)\Inter\Lib\site-packages\colorama\initialise.py first seen with mtime 1681401776.9720693
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\forms\jsonb.py first seen with mtime 1669061126.2612438
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\uritemplate\template.py first seen with mtime 1669061098.4055936
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\boundfield.py first seen with mtime 1669061127.8086908
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\__init__.py first seen with mtime 1669061133.7980733
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\finders.py first seen with mtime 1669061127.3476286
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\decorators.py first seen with mtime 1669061128.1322038
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\model_meta.py first seen with mtime 1669061154.8103805
+File C:\Program Files (x86)\Inter\Lib\struct.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\compat.py first seen with mtime 1669061165.4911618
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\__init__.py first seen with mtime 1669061127.539434
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\timezone.py first seen with mtime 1669061128.180214
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\model_checks.py first seen with mtime 1669061127.4051297
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\templatetags\l10n.py first seen with mtime 1669061128.061188
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\actions.py first seen with mtime 1669061122.2890651
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\exceptions.py first seen with mtime 1669061128.0281796
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\response.py first seen with mtime 1669061098.0582166
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\emitter.py first seen with mtime 1669061099.7784996
+File C:\Program Files (x86)\Inter\Lib\base64.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\api.py first seen with mtime 1669061114.087001
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\transports\http.py first seen with mtime 1669061165.5141585
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\simplejson\scanner.py first seen with mtime 1669061098.8636527
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\certifi\core.py first seen with mtime 1669061114.2660382
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\mail\__init__.py first seen with mtime 1669061127.443349
+File C:\Program Files (x86)\Inter\Lib\site-packages\mpl_toolkits\__init__.py first seen with mtime 1681400981.3006468
+File C:\Program Files (x86)\Inter\Lib\bz2.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\sql\datastructures.py first seen with mtime 1669061127.7896867
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\utils.py first seen with mtime 1669061119.4387848
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py first seen with mtime 1668811363.7244277
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\more_itertools\more.py first seen with mtime 1668811363.689145
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\forms\ranges.py first seen with mtime 1669061126.262245
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\uploadhandler.py first seen with mtime 1669061127.431346
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\defaulttags.py first seen with mtime 1669061128.0213354
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\compiler.py first seen with mtime 1669061119.3937802
+File C:\Program Files (x86)\Inter\Lib\subprocess.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\_musllinux.py first seen with mtime 1668811363.711663
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\asyncio.py first seen with mtime 1669061128.1061902
+File C:\Program Files (x86)\Inter\Lib\lzma.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sites\shortcuts.py first seen with mtime 1669061127.0592842
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\templatetags\admin_urls.py first seen with mtime 1669061123.8015602
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\http\response.py first seen with mtime 1669061127.9881713
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\psycopg2\extensions.py first seen with mtime 1669061101.580337
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\tokens.py first seen with mtime 1669061124.237848
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\utils.py first seen with mtime 1669061127.4333463
+File C:\Program Files (x86)\Inter\Lib\unittest\result.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\uritemplate\__init__.py first seen with mtime 1669061098.3985927
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\cache\backends\locmem.py first seen with mtime 1669061127.3950891
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\formatting.py first seen with mtime 1669061133.8220775
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\forms.py first seen with mtime 1669061124.6607046
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\handlers\__init__.py first seen with mtime 1669061127.4343462
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\management\__init__.py first seen with mtime 1669061124.6226552
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\features.py first seen with mtime 1669061127.5484357
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\models\fields.py first seen with mtime 1683833128.7214632
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\caches.py first seen with mtime 1669061127.4010916
+File C:\Program Files (x86)\Inter\Lib\encodings\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\dates.py first seen with mtime 1669061128.1282024
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\nodes.py first seen with mtime 1669061099.7886417
+File C:\Program Files (x86)\Inter\Lib\traceback.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\xml\dom\pulldom.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\email\message.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\urls.py first seen with mtime 1669061154.8155537
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\utils.py first seen with mtime 1669061098.5808485
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\poolmanager.py first seen with mtime 1669061098.05421
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\uritemplate\api.py first seen with mtime 1669061098.4005923
+File C:\Program Files (x86)\Inter\Lib\wsgiref\util.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\datetime.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\legacy.py first seen with mtime 1669061114.0960014
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sites\__init__.py first seen with mtime 1669061127.0472841
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\utils.py first seen with mtime 1669061127.5314333
+File C:\Program Files (x86)\Inter\Lib\reprlib.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\autoreload.py first seen with mtime 1669061128.0081677
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\tree.py first seen with mtime 1669061128.183206
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\psycopg2\_json.py first seen with mtime 1669061101.5223236
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\engine\grouping.py first seen with mtime 1669061098.58585
+File C:\Program Files (x86)\Inter\Lib\importlib\machinery.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\fields\__init__.py first seen with mtime 1669061126.24625
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\__init__.py first seen with mtime 1668811363.611919
+File C:\Program Files (x86)\Inter\Lib\asyncio\windows_utils.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\models\__init__.py first seen with mtime 1683833128.7194562
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\field_mapping.py first seen with mtime 1669061154.7987597
+File C:\Program Files (x86)\Inter\Lib\sqlite3\__init__.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\base_futures.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\localtime\_helpers.py first seen with mtime 1683833128.1890383
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\utils.py first seen with mtime 1669061127.5374331
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\serializers.py first seen with mtime 1669061154.191688
+File C:\Program Files (x86)\Inter\Lib\asyncio\transports.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\codecs\text.py first seen with mtime 1669061165.5101578
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\fields.py first seen with mtime 1669061154.1536636
+File C:\Program Files (x86)\Inter\Lib\xml\sax\expatreader.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\views.py first seen with mtime 1669061127.357631
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\_internal_utils.py first seen with mtime 1669061116.0994558
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\functional.py first seen with mtime 1669061128.1432054
+File C:\Program Files (x86)\Inter\Lib\concurrent\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\apps.py first seen with mtime 1669061122.290066
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\models.py first seen with mtime 1669061126.748264
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\__init__.py first seen with mtime 1669061127.398091
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\optimizer.py first seen with mtime 1669061119.426788
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\engine\statement_splitter.py first seen with mtime 1669061098.58785
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\views\main.py first seen with mtime 1669061123.81093
+File C:\Program Files (x86)\Inter\Lib\wsgiref\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\handlers\wsgi.py first seen with mtime 1669061127.4413474
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\decorators\debug.py first seen with mtime 1669061128.2192228
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\xmlutils.py first seen with mtime 1669061128.187215
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\templatetags\__init__.py first seen with mtime 1683833128.7364593
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\formatter.py first seen with mtime 1669061098.568846
+File C:\Program Files (x86)\Inter\DLLs\_queue.pyd first seen with mtime 1665496764.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\ddl_references.py first seen with mtime 1669061127.5344322
+File C:\Program Files (x86)\Inter\Lib\stat.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\debug.py first seen with mtime 1669061128.2022188
+File C:\Program Files (x86)\Inter\Lib\tempfile.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\loader.py first seen with mtime 1669061099.7865016
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\apps\__init__.py first seen with mtime 1669061121.635386
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\functions\__init__.py first seen with mtime 1669061127.7686677
+File C:\Program Files (x86)\Inter\Lib\asyncio\base_events.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\encodings\utf_8.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\__init__.py first seen with mtime 1669061154.1388898
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\__init__.py first seen with mtime 1669061122.287065
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\sql\__init__.py first seen with mtime 1669061127.7816901
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\tokens.py first seen with mtime 1669061098.577855
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\operations\fields.py first seen with mtime 1669061127.6725686
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\assets\__init__.py first seen with mtime 1669061114.1090164
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\utils.py first seen with mtime 1669061127.8286886
+File C:\Program Files (x86)\Inter\Lib\http\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\_collections.py first seen with mtime 1669061098.0382178
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreschema\encodings\html.py first seen with mtime 1485963706.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\jaraco\functools.py first seen with mtime 1668811363.6725392
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\client.py first seen with mtime 1669061165.4891531
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\related_lookups.py first seen with mtime 1669061127.7646742
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\dispatch\__init__.py first seen with mtime 1669061127.8036897
+File C:\Program Files (x86)\Inter\Lib\fractions.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\_identifier.py first seen with mtime 1669061119.3867712
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\ssl_.py first seen with mtime 1669061098.0974722
+File C:\Program Files (x86)\Inter\Lib\email\mime\base.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\_version.py first seen with mtime 1669061098.0422182
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\localtime\_fallback.py first seen with mtime 1683833128.187038
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\serializers\json.py first seen with mtime 1669061127.5174284
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\templatetags\static.py first seen with mtime 1669061128.0631878
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\uploadedfile.py first seen with mtime 1669061127.4303453
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\utils.py first seen with mtime 1669061114.1050053
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\query_utils.py first seen with mtime 1669061127.725475
+File C:\Program Files (x86)\Inter\Lib\glob.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\simplejson\decoder.py first seen with mtime 1669061098.8536346
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\cyaml.py first seen with mtime 1669061099.7754912
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\management\sql.py first seen with mtime 1669061127.4663558
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\utils.py first seen with mtime 1669061133.8430822
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\localedata.py first seen with mtime 1683833126.856508
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\messages.py first seen with mtime 1669061127.4030929
+File C:\Program Files (x86)\Inter\Lib\email\contentmanager.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\representer.py first seen with mtime 1669061099.7962787
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\checks.py first seen with mtime 1669061124.2148428
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\filters\tokens.py first seen with mtime 1669061098.6002963
+File C:\Program Files (x86)\Inter\Lib\xml\sax\handler.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\protocols.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\xml\dom\domreg.py first seen with mtime 1665496704.0
+File D:\־ׁ 2סול\WEB\os6\main\forms.py first seen with mtime 1683878595.57425
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\contrib\_appengine_environ.py first seen with mtime 1669061098.063205
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\types.py first seen with mtime 1669061133.839075
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\__version__.py first seen with mtime 1669061116.0984557
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\lexer.py first seen with mtime 1669061119.410784
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\middleware\cache.py first seen with mtime 1669061127.9921627
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\adapters.py first seen with mtime 1669061116.100465
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\certs.py first seen with mtime 1669061116.1094582
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\options.py first seen with mtime 1669061122.311071
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\mail\utils.py first seen with mtime 1669061127.4473488
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\simplejson\raw_json.py first seen with mtime 1669061098.8626516
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\plural.py first seen with mtime 1683833126.8695114
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\functions\text.py first seen with mtime 1669061127.7776854
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\helpers.py first seen with mtime 1668811363.7953405
+File C:\Program Files (x86)\Inter\Lib\dataclasses.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\error.py first seen with mtime 1669061099.782493
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\filepost.py first seen with mtime 1669061098.0522084
+File C:\Program Files (x86)\Inter\Lib\xml\sax\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\packages.py first seen with mtime 1669061116.1233084
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\i18n.py first seen with mtime 1669061128.209227
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\backends\__init__.py first seen with mtime 1669061128.0401738
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\auth.py first seen with mtime 1669061116.1064577
+File C:\Program Files (x86)\Inter\Lib\token.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\contrib\__init__.py first seen with mtime 1669061098.0612175
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\connection.py first seen with mtime 1669061098.0432131
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\forms\widgets.py first seen with mtime 1683833128.7164621
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\contrib\django_rest_framework\__init__.py first seen with mtime 1683833128.6724448
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\_compat.py first seen with mtime 1669061133.8000793
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\translation.py first seen with mtime 1669061127.4093492
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\generic\list.py first seen with mtime 1669061128.2422276
+File C:\Program Files (x86)\Inter\Lib\asyncio\selector_events.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\base_session.py first seen with mtime 1669061126.744263
+File C:\Program Files (x86)\Inter\Lib\importlib\util.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\management\commands\runserver.py first seen with mtime 1669061127.3646321
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\lexer.py first seen with mtime 1669061098.5738552
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\core.py first seen with mtime 1668811363.7687306
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\api.py first seen with mtime 1669061116.1044583
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\fields\citext.py first seen with mtime 1669061126.250251
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\version.py first seen with mtime 1669061128.1852076
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\management\__init__.py first seen with mtime 1669061127.4583519
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\urls\resolvers.py first seen with mtime 1669061128.0981877
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\sqlite3\base.py first seen with mtime 1669061127.6174507
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\loaders\app_directories.py first seen with mtime 1669061128.0501845
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\checks.py first seen with mtime 1669061124.6566975
+File C:\Program Files (x86)\Inter\Lib\importlib\_adapters.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\asgiref\current_thread_executor.py first seen with mtime 1669061114.645085
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\certifi\__init__.py first seen with mtime 1669061114.2590365
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\formsets.py first seen with mtime 1669061127.8176928
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\fields\ranges.py first seen with mtime 1669061126.2542512
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\money.py first seen with mtime 1683833128.658448
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\base.py first seen with mtime 1669061127.6884673
+File C:\Program Files (x86)\Inter\Lib\email\headerregistry.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\locks.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\mixins.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\move.py first seen with mtime 1669061127.4243436
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\database.py first seen with mtime 1669061127.4020922
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\filters\right_margin.py first seen with mtime 1669061098.5982955
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\generic\detail.py first seen with mtime 1669061128.2362242
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\fields\utils.py first seen with mtime 1669061126.2562418
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\deletion.py first seen with mtime 1669061127.6974697
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\base.py first seen with mtime 1669061127.4203434
+File C:\Program Files (x86)\Inter\Lib\xml\dom\xmlbuilder.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\colorama\ansi.py first seen with mtime 1681401776.9595573
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\registry.py first seen with mtime 1669061127.4071312
+File C:\Program Files (x86)\Inter\Lib\site-packages\moneyed\l10n.py first seen with mtime 1683833128.5944388
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\connection.py first seen with mtime 1669061098.0868437
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\http.py first seen with mtime 1669061128.1522074
+File C:\Program Files (x86)\Inter\Lib\ntpath.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py first seen with mtime 1668811363.719531
+File C:\Program Files (x86)\Inter\Lib\hashlib.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\importlib\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\manager.py first seen with mtime 1669061127.7144725
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\constant.py first seen with mtime 1669061114.0930183
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\apps\registry.py first seen with mtime 1669061121.6393933
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\generic\base.py first seen with mtime 1669061128.228237
+File C:\Program Files (x86)\Inter\DLLs\_hashlib.pyd first seen with mtime 1665496766.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\conf\locale\__init__.py first seen with mtime 1669061121.6624718
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\state.py first seen with mtime 1669061127.6614616
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\middleware.py first seen with mtime 1669061124.2258532
+File C:\Program Files (x86)\Inter\Lib\stringprep.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreschema\__init__.py first seen with mtime 1486556601.0
+File C:\Program Files (x86)\Inter\Lib\json\scanner.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreschema\compat.py first seen with mtime 1486549794.0
+File C:\Program Files (x86)\Inter\Lib\warnings.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\gzip.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\contextlib.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\validators.py first seen with mtime 1669061126.24025
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\exceptions.py first seen with mtime 1669061127.3736346
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\conf\__init__.py first seen with mtime 1669061121.6484694
+File C:\Program Files (x86)\Inter\Lib\asyncio\streams.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\codecs\jsondata.py first seen with mtime 1669061165.5071564
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py first seen with mtime 1668811363.7156131
+File C:\Program Files (x86)\Inter\DLLs\_ssl.pyd first seen with mtime 1665496764.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\cli.py first seen with mtime 1669061098.5628598
+File C:\Program Files (x86)\Inter\Lib\asyncio\constants.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreschema\encodings\__init__.py first seen with mtime 1485963706.0
+File C:\Program Files (x86)\Inter\Lib\tokenize.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\locks.py first seen with mtime 1669061127.4233441
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\test\client.py first seen with mtime 1669061128.0681884
+File C:\Program Files (x86)\Inter\Lib\xml\sax\xmlreader.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\timesince.py first seen with mtime 1669061128.1782055
+File C:\Program Files (x86)\Inter\Lib\asyncio\threads.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\serializers\jsonl.py first seen with mtime 1669061127.5184288
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\async_utils.py first seen with mtime 1669061119.3887663
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\actions.py first seen with mtime 1668811363.7571735
+File C:\Program Files (x86)\Inter\Lib\_weakrefset.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\queue.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\ssl_match_hostname.py first seen with mtime 1669061098.100474
+File C:\Program Files (x86)\Inter\Lib\asyncio\runners.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\templatetags\__init__.py first seen with mtime 1669061128.0561776
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\proxy.py first seen with mtime 1669061098.088844
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\__init__.py first seen with mtime 1669061099.754486
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\widgets.py first seen with mtime 1669061127.8306959
+File C:\Program Files (x86)\Inter\Lib\email\_header_value_parser.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\proactor_events.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\views\__init__.py first seen with mtime 1669061123.806864
+File C:\Program Files (x86)\Inter\Lib\_compression.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\exceptions.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\checks.py first seen with mtime 1669061127.3466282
+File C:\Program Files (x86)\Inter\Lib\cgi.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\security\sessions.py first seen with mtime 1669061127.417342
+File C:\Program Files (x86)\Inter\Lib\asyncio\coroutines.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\test\signals.py first seen with mtime 1669061128.0801916
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\psycopg2\__init__.py first seen with mtime 1669061101.5183234
+File C:\Program Files (x86)\Inter\Lib\typing.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\subprocess.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\threading.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\cache\backends\base.py first seen with mtime 1669061127.3881154
+File C:\Program Files (x86)\Inter\Lib\html\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\status_codes.py first seen with mtime 1669061116.1284661
+File C:\Program Files (x86)\Inter\DLLs\_decimal.pyd first seen with mtime 1665496766.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\__init__.py first seen with mtime 1669061165.4861517
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\constants.py first seen with mtime 1669061127.6944685
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\http\multipartparser.py first seen with mtime 1669061127.9821813
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\translation\trans_real.py first seen with mtime 1669061128.196217
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\version.py first seen with mtime 1669061114.108016
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\backends\__init__.py first seen with mtime 1669061126.7502644
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\idna\__init__.py first seen with mtime 1669061112.7476566
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\serializers\base.py first seen with mtime 1669061127.5154283
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\templatetags\admin_modify.py first seen with mtime 1669061123.7985616
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\exceptions.py first seen with mtime 1669061116.1154208
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\exceptions.py first seen with mtime 1669061098.048208
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\lookups.py first seen with mtime 1669061126.2302477
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\signals.py first seen with mtime 1669061127.3771114
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\validators.py first seen with mtime 1669061127.3801134
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\idna\package_data.py first seen with mtime 1669061112.758465
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\exceptions.py first seen with mtime 1669061119.4007826
+File C:\Program Files (x86)\Inter\Lib\quopri.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\common.py first seen with mtime 1668811363.761813
+File C:\Program Files (x86)\Inter\Lib\collections\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\utils.py first seen with mtime 1669061116.1324651
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\parser.py first seen with mtime 1669061119.4287887
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\json.py first seen with mtime 1669061154.8063784
+File C:\Program Files (x86)\Inter\Lib\enum.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\transports\__init__.py first seen with mtime 1669061165.512158
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\itercompat.py first seen with mtime 1669061128.1592026
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\serializers\xml_serializer.py first seen with mtime 1669061127.52343
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\asgiref\sync.py first seen with mtime 1669061114.6530793
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\forms\array.py first seen with mtime 1669061126.2582433
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\utils.py first seen with mtime 1669061127.730482
+File C:\Program Files (x86)\Inter\Lib\asyncio\tasks.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\base.py first seen with mtime 1669061127.5404334
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\introspection.py first seen with mtime 1669061127.5514357
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\mixins.py first seen with mtime 1669061127.7454796
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\signals.py first seen with mtime 1669061124.23585
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\jaraco\context.py first seen with mtime 1668811363.6671405
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\templatetags\base.py first seen with mtime 1669061123.8035603
+File C:\Program Files (x86)\Inter\Lib\functools.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\util.py first seen with mtime 1668811363.8214395
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\static.py first seen with mtime 1669061128.2112136
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\creation.py first seen with mtime 1669061127.5454404
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\psycopg2\errors.py first seen with mtime 1669061101.5793428
+File C:\Program Files (x86)\Inter\Lib\linecache.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\request.py first seen with mtime 1669061098.056216
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\images.py first seen with mtime 1669061127.4223437
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\sqlite3\client.py first seen with mtime 1669061127.6204515
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\utils.py first seen with mtime 1683833128.6684458
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\exceptions.py first seen with mtime 1669061098.5668526
+File C:\Program Files (x86)\Inter\Lib\email\utils.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\shutil.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\response.py first seen with mtime 1669061128.035173
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\environment.py first seen with mtime 1669061119.399783
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\storage.py first seen with mtime 1669061127.4263449
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\loader.py first seen with mtime 1669061128.0311804
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\topological_sort.py first seen with mtime 1669061128.1822147
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\base\schema.py first seen with mtime 1669061127.556437
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\codecs\base.py first seen with mtime 1669061165.5001569
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\filters.py first seen with mtime 1669061119.4067767
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\md.py first seen with mtime 1669061114.0980067
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\pytz\__init__.py first seen with mtime 1669061089.6127255
+File C:\Program Files (x86)\Inter\Lib\email\mime\multipart.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\templatetags\admin_list.py first seen with mtime 1669061123.7945733
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\query.py first seen with mtime 1669061127.7204738
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\handlers\asgi.py first seen with mtime 1669061127.435346
+File C:\Program Files (x86)\Inter\Lib\json\decoder.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\sqlite3\operations.py first seen with mtime 1669061127.6274555
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\handlers\base.py first seen with mtime 1669061127.4383469
+File C:\Program Files (x86)\Inter\DLLs\unicodedata.pyd first seen with mtime 1665496768.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\management\__init__.py first seen with mtime 1669061127.358632
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\dispatch\dispatcher.py first seen with mtime 1669061127.8046904
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\http\request.py first seen with mtime 1669061127.9851623
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\generic\dates.py first seen with mtime 1669061128.2322254
+File C:\Program Files (x86)\Inter\Lib\concurrent\futures\thread.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\filters\others.py first seen with mtime 1669061098.5932944
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py first seen with mtime 1668811363.6992605
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\autoreload.py first seen with mtime 1669061128.1081977
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\testing.py first seen with mtime 1668811363.811032
+File C:\Program Files (x86)\Inter\Lib\random.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\urls\__init__.py first seen with mtime 1669061128.0901942
+File C:\Program Files (x86)\Inter\Lib\asyncio\staggered.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\exceptions.py first seen with mtime 1669061127.6394558
+File C:\Program Files (x86)\Inter\Lib\email\charset.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\pkgutil.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\simplejson\compat.py first seen with mtime 1669061098.8516488
+File C:\Program Files (x86)\Inter\Lib\ipaddress.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\_compat.py first seen with mtime 1683833128.6514406
+File C:\Program Files (x86)\Inter\Lib\uuid.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\utils.py first seen with mtime 1669061127.6644614
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\signals.py first seen with mtime 1669061127.7284758
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\wait.py first seen with mtime 1669061098.1093266
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py first seen with mtime 1668811363.7414737
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\management\commands\runserver.py first seen with mtime 1669061127.495408
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\request.py first seen with mtime 1669061098.0918448
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\functions\comparison.py first seen with mtime 1669061127.7706752
+File D:\־ׁ 2סול\WEB\os6\os6\urls.py first seen with mtime 1683830824.148734
+File C:\Program Files (x86)\Inter\Lib\sre_parse.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\heapq.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\connectionpool.py first seen with mtime 1669061098.0472147
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\idna\intranges.py first seen with mtime 1669061112.7574549
+File C:\Program Files (x86)\Inter\Lib\xml\__init__.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\contrib\__init__.py first seen with mtime 1683833128.6704512
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\json.py first seen with mtime 1669061127.7414787
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\utils.py first seen with mtime 1669061127.3566306
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\loaders\__init__.py first seen with mtime 1669061128.048177
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\decorators\common.py first seen with mtime 1669061128.2162225
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\engine.py first seen with mtime 1669061128.0261714
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\models.py first seen with mtime 1669061127.8216937
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\psycopg2\_psycopg.cp310-win_amd64.pyd first seen with mtime 1669061101.537326
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\filters\output.py first seen with mtime 1669061098.5952947
+File C:\Program Files (x86)\Inter\Lib\asyncio\base_tasks.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\asyncio\events.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\decorators.py first seen with mtime 1669061133.8180687
+File C:\Program Files (x86)\Inter\DLLs\pyexpat.pyd first seen with mtime 1665496766.0
+File C:\Program Files (x86)\Inter\Lib\re.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\cookies.py first seen with mtime 1669061116.1124191
+File C:\Program Files (x86)\Inter\Lib\encodings\cp1251.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\idna\idnadata.py first seen with mtime 1669061112.7556577
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\engine\filter_stack.py first seen with mtime 1669061098.5838482
+File C:\Program Files (x86)\Inter\Lib\ast.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\xml\parsers\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\models.py first seen with mtime 1669061114.1000133
+File C:\Program Files (x86)\Inter\Lib\importlib\abc.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\http\cookiejar.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\wsgiref\simple_server.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\retry.py first seen with mtime 1669061098.0944808
+File C:\Program Files (x86)\Inter\Lib\getpass.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\globals.py first seen with mtime 1669061133.8240848
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\checks.py first seen with mtime 1669061122.2920659
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\exceptions.py first seen with mtime 1669061133.8200839
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\_os.py first seen with mtime 1669061128.1031878
+File C:\Program Files (x86)\Inter\Lib\email\header.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\parser.py first seen with mtime 1669061133.8260784
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\urls.py first seen with mtime 1669061127.3546307
+File C:\Program Files (x86)\Inter\Lib\string.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\concurrent\futures\_base.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\signals.py first seen with mtime 1669061127.5364327
+File C:\Program Files (x86)\Inter\Lib\fnmatch.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\operations\__init__.py first seen with mtime 1669061127.667463
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\serializer_helpers.py first seen with mtime 1669061154.8135607
+File C:\Program Files (x86)\Inter\Lib\dis.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\engine\__init__.py first seen with mtime 1669061098.5828485
+File C:\Program Files (x86)\Inter\Lib\unittest\case.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\lookups.py first seen with mtime 1669061127.7104719
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\termcolors.py first seen with mtime 1669061128.173204
+File C:\Program Files (x86)\Inter\Lib\sre_compile.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\DLLs\_overlapped.pyd first seen with mtime 1665496764.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\__init__.py first seen with mtime 1669061122.2850692
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\safestring.py first seen with mtime 1669061128.172212
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\core.py first seen with mtime 1669061133.8110824
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\dates.py first seen with mtime 1683833126.8355043
+File C:\Program Files (x86)\Inter\DLLs\_bz2.pyd first seen with mtime 1665496764.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\base_user.py first seen with mtime 1669061124.2118423
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\related_descriptors.py first seen with mtime 1669061127.7596853
+File D:\־ׁ 2סול\WEB\os6\main\urls.py first seen with mtime 1683901527.0891237
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\document.py first seen with mtime 1669061165.4921532
+File C:\Program Files (x86)\Inter\Lib\codecs.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\visitor.py first seen with mtime 1669061119.4427917
+File C:\Program Files (x86)\Inter\Lib\io.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\decorators\__init__.py first seen with mtime 1669061128.2122128
+File C:\Program Files (x86)\Inter\Lib\unittest\signals.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\conf\global_settings.py first seen with mtime 1669061121.651478
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\__init__.py first seen with mtime 1669061128.1992178
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\functions\mixins.py first seen with mtime 1669061127.7756846
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\tests.py first seen with mtime 1669061119.4367814
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\fields\hstore.py first seen with mtime 1669061126.251251
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\expressions.py first seen with mtime 1669061127.7024696
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\tokens.py first seen with mtime 1669061099.8065672
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\codecs\corejson.py first seen with mtime 1669061165.5021567
+File C:\Program Files (x86)\Inter\Lib\__future__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\psycopg2\extras.py first seen with mtime 1669061101.5823429
+File C:\Program Files (x86)\Inter\Lib\email\_policybase.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\_yaml.cp310-win_amd64.pyd first seen with mtime 1669061099.757486
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\packages\__init__.py first seen with mtime 1669061098.0794883
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\apps.py first seen with mtime 1669061126.2099757
+File C:\Program Files (x86)\Inter\Lib\urllib\request.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\forms\fields.py first seen with mtime 1683833128.713454
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\backends\base.py first seen with mtime 1669061128.0421824
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\search.py first seen with mtime 1669061126.2342472
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\log.py first seen with mtime 1669061128.1622016
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\renderers.py first seen with mtime 1669061127.826695
+File C:\Program Files (x86)\Inter\Lib\weakref.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\reverse_related.py first seen with mtime 1669061127.7656815
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\fields\array.py first seen with mtime 1669061126.2482505
+File C:\Program Files (x86)\Inter\Lib\asyncio\windows_events.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\collections\abc.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\__init__.py first seen with mtime 1669061126.2069745
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\ipv6.py first seen with mtime 1669061128.1572156
+File C:\Program Files (x86)\Inter\Lib\site-packages\colorama\__init__.py first seen with mtime 1681401776.9550667
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\wsgi.py first seen with mtime 1669061127.382186
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\__init__.py first seen with mtime 1669061128.0071745
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\management\base.py first seen with mtime 1669061127.4613528
+File C:\Program Files (x86)\Inter\Lib\ctypes\wintypes.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\forms\__init__.py first seen with mtime 1683833128.7114608
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\compat.py first seen with mtime 1669061116.1104176
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\extern\__init__.py first seen with mtime 1668811363.8321621
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\security\__init__.py first seen with mtime 1669061127.4133413
+File C:\Program Files (x86)\Inter\Lib\os.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\__init__.py first seen with mtime 1669061128.1021879
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\sql\constants.py first seen with mtime 1669061127.787686
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\decorators.py first seen with mtime 1669061122.2950668
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\simplejson\encoder.py first seen with mtime 1669061098.856643
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\conf\urls\static.py first seen with mtime 1669061122.2830715
+File C:\Program Files (x86)\Inter\Lib\operator.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\context.py first seen with mtime 1669061128.0141764
+File C:\Program Files (x86)\Inter\Lib\email\feedparser.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\_compat_pickle.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\files\__init__.py first seen with mtime 1669061127.4193432
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\deconstruct.py first seen with mtime 1669061128.1312037
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\settings.py first seen with mtime 1683833128.6654513
+File C:\Program Files (x86)\Inter\Lib\email\iterators.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\email\generator.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\shortcuts.py first seen with mtime 1669061121.6333923
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\signing.py first seen with mtime 1669061127.378113
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\hooks.py first seen with mtime 1669061116.1203072
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\packaging\version.py first seen with mtime 1668811363.7459786
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\exceptions.py first seen with mtime 1669061154.151662
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\exceptions.py first seen with mtime 1669061122.2970667
+File C:\Program Files (x86)\Inter\Lib\logging\handlers.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\scanner.py first seen with mtime 1669061099.8012793
+File C:\Program Files (x86)\Inter\Lib\email\base64mime.py first seen with mtime 1665496704.0
+File D:\־ׁ 2סול\WEB\os6\os6\settings.py first seen with mtime 1683903842.6137636
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\models.py first seen with mtime 1669061124.2308471
+File C:\Program Files (x86)\Inter\Lib\email\quoprimime.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\utils.py first seen with mtime 1669061122.3220718
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\localtime\__init__.py first seen with mtime 1683833128.1840384
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\bccache.py first seen with mtime 1669061119.3907728
+File C:\Program Files (x86)\Inter\Lib\platform.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\wsgiref\handlers.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\formatting.py first seen with mtime 1669061154.801761
+File C:\Program Files (x86)\Inter\Lib\sqlite3\dbapi2.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\__init__.py first seen with mtime 1669061098.0858436
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\dateparse.py first seen with mtime 1669061128.126202
+File C:\Program Files (x86)\Inter\Lib\pathlib.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\__init__.py first seen with mtime 1669061127.5284317
+File C:\Program Files (x86)\Inter\Lib\inspect.py first seen with mtime 1665496704.0
+File C:\Program Files (x86)\Inter\Lib\difflib.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\lorem_ipsum.py first seen with mtime 1669061128.1642032
+File C:\Program Files (x86)\Inter\Lib\logging\config.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\templatetags\cache.py first seen with mtime 1669061128.0571773
+File C:\Program Files (x86)\Inter\Lib\importlib\_common.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\checks\urls.py first seen with mtime 1669061127.4103405
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\inspect.py first seen with mtime 1669061128.1562083
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\text.py first seen with mtime 1669061128.1762066
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\sessions.py first seen with mtime 1669061116.1247873
+File C:\Program Files (x86)\Inter\Lib\site-packages\djmoney\models\validators.py first seen with mtime 1683833128.7334673
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\results.py first seen with mtime 1668811363.8031533
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\pyparsing\unicode.py first seen with mtime 1668811363.8162332
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\__init__.py first seen with mtime 1669061121.6303904
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\filters\__init__.py first seen with mtime 1669061098.5898497
+File C:\Program Files (x86)\Inter\Lib\hmac.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\backends\__init__.py first seen with mtime 1669061127.5334325
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\sqlparse\keywords.py first seen with mtime 1669061098.570861
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\relations.py first seen with mtime 1669061154.1766686
+File C:\Program Files (x86)\Inter\Lib\plistlib.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\operations\utils.py first seen with mtime 1669061127.6834657
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\middleware\security.py first seen with mtime 1669061128.0051746
+File C:\Program Files (x86)\Inter\Lib\opcode.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\crypto.py first seen with mtime 1669061128.118212
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\apps.py first seen with mtime 1669061126.7432625
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\cache\backends\filebased.py first seen with mtime 1669061127.393116
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\serializers\python.py first seen with mtime 1669061127.520429
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\postgres\forms\hstore.py first seen with mtime 1669061126.2602437
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\auth.py first seen with mtime 1669061165.4881606
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\fields.py first seen with mtime 1669061127.8106928
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\admin.py first seen with mtime 1669061124.2068408
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\test\html.py first seen with mtime 1669061128.0721893
+File C:\Program Files (x86)\Inter\Lib\email\mime\message.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\nodes.py first seen with mtime 1669061119.4247928
+File C:\Program Files (x86)\Inter\Lib\sysconfig.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\functions\datetime.py first seen with mtime 1669061127.7716832
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\sql\query.py first seen with mtime 1669061127.791687
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\views\decorators\csrf.py first seen with mtime 1669061128.2172139
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\module_loading.py first seen with mtime 1669061128.1662111
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\filters.py first seen with mtime 1669061122.2990677
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\test\testcases.py first seen with mtime 1669061128.0821993
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\migration.py first seen with mtime 1669061127.6524587
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\click\termui.py first seen with mtime 1669061133.8330734
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\templatetags\tz.py first seen with mtime 1669061128.0651793
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\requests\models.py first seen with mtime 1669061116.1223075
+File C:\Program Files (x86)\Inter\Lib\site-packages\babel\localtime\_win32.py first seen with mtime 1683833128.196041
+File C:\Program Files (x86)\Inter\Lib\json\__init__.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\asgiref\__init__.py first seen with mtime 1669061114.6410844
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\files.py first seen with mtime 1669061127.737478
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\uritemplate\orderedset.py first seen with mtime 1669061098.4025877
+File C:\Program Files (x86)\Inter\DLLs\select.pyd first seen with mtime 1665496766.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\__init__.py first seen with mtime 1669061126.7422628
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\models.py first seen with mtime 1669061124.6626985
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\urllib3\util\queue.py first seen with mtime 1669061098.0898535
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\fields\proxy.py first seen with mtime 1669061127.747486
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\operations\special.py first seen with mtime 1669061127.6804647
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\idtracking.py first seen with mtime 1669061119.4077833
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\loader_tags.py first seen with mtime 1669061128.0331814
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\storage\__init__.py first seen with mtime 1669061126.215978
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\codecs\download.py first seen with mtime 1669061165.506159
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\pytz\lazy.py first seen with mtime 1669061089.6157331
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\templatetags\log.py first seen with mtime 1669061123.8048666
+File C:\Program Files (x86)\Inter\Lib\xml\dom\minicompat.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\forms\__init__.py first seen with mtime 1669061127.8076913
+File C:\Program Files (x86)\Inter\Lib\socket.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreschema\formats.py first seen with mtime 1485963706.0
+File C:\Program Files (x86)\Inter\DLLs\_ctypes.pyd first seen with mtime 1665496766.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\validators.py first seen with mtime 1669061124.2408495
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\duration.py first seen with mtime 1669061128.1351953
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\uritemplate\variable.py first seen with mtime 1669061098.4076006
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\utils\deprecation.py first seen with mtime 1669061128.1342041
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\jinja2\loaders.py first seen with mtime 1669061119.4157786
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\__init__.py first seen with mtime 1668811363.6141098
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\yaml\reader.py first seen with mtime 1669061099.7935822
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\serializers\__init__.py first seen with mtime 1669061127.5134277
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\psycopg2\_range.py first seen with mtime 1669061101.5733356
+File C:\Program Files (x86)\Inter\Lib\xml\dom\NodeFilter.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\rest_framework\utils\humanize_datetime.py first seen with mtime 1669061154.8050532
+File C:\Program Files (x86)\Inter\Lib\site-packages\pkg_resources\_vendor\jaraco\text\__init__.py first seen with mtime 1668811363.6781428
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\charset_normalizer\__init__.py first seen with mtime 1669061114.084999
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\core\management\color.py first seen with mtime 1669061127.4643528
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\transports\base.py first seen with mtime 1669061165.5131583
+File C:\Program Files (x86)\Inter\Lib\copyreg.py first seen with mtime 1665496704.0
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\coreapi\codecs\python.py first seen with mtime 1669061165.509157
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\management\commands\__init__.py first seen with mtime 1669061127.359632
+File C:\Program Files (x86)\Inter\Lib\email\parser.py first seen with mtime 1665496704.0
+File D:\־ׁ 2סול\WEB\os6\main\templates\main first seen with mtime 1683901566.4184093
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\category_product.html first seen with mtime 1683901566.4154077
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\create_category.html first seen with mtime 1683853875.0335324
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\create_price.html first seen with mtime 1683895680.8527405
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\create_product.html first seen with mtime 1683859657.5885017
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\create_store.html first seen with mtime 1683858337.214198
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\edit_category.html first seen with mtime 1683898781.604339
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\edit_price.html first seen with mtime 1683899500.5992723
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\edit_product.html first seen with mtime 1683900239.826752
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\edit_store.html first seen with mtime 1683897768.4734957
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\index.html first seen with mtime 1683894024.482768
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\price.html first seen with mtime 1683901307.5185592
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\product.html first seen with mtime 1683901444.9399934
+File D:\־ׁ 2סול\WEB\os6\main\templates\main\store.html first seen with mtime 1683901114.8980112
+"GET / HTTP/1.1" 200 1030
+(0.000) SELECT "main_storeproductmodel"."id", "main_storeproductmodel"."name", "main_storeproductmodel"."description" FROM "main_storeproductmodel" ORDER BY "main_storeproductmodel"."name" ASC; args=()
+"GET /store_print/ HTTP/1.1" 200 2906
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\utils.py first seen with mtime 1669061126.2139769
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\graph.py first seen with mtime 1669061127.645457
+File D:\־ׁ 2סול\WEB\os6\main\migrations\__init__.py first seen with mtime 1683830025.4091613
+File D:\־ׁ 2סול\WEB\os6\main\migrations\0002_categoryproductmodel_productmodel_productpricemodel.py first seen with mtime 1683833142.4371102
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0011_update_proxy_permissions.py first seen with mtime 1669061124.644702
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\executor.py first seen with mtime 1669061127.6414566
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\staticfiles\storage.py first seen with mtime 1669061127.3516295
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\middleware\common.py first seen with mtime 1669061127.9961724
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0006_require_contenttypes_0002.py first seen with mtime 1669061124.6387005
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\middleware\clickjacking.py first seen with mtime 1669061127.994172
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\migrations\0001_initial.py first seen with mtime 1669061127.0305731
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\migrations\0001_initial.py first seen with mtime 1669061123.058972
+File D:\־ׁ 2סול\WEB\os6\main\migrations\0004_auto_20230512_1739.py first seen with mtime 1683902359.11989
+File D:\־ׁ 2סול\WEB\os6\os6\wsgi.py first seen with mtime 1683829868.861726
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\migrations\__init__.py first seen with mtime 1669061124.9558246
+File D:\־ׁ 2סול\WEB\os6\main\migrations\0005_auto_20230512_1741.py first seen with mtime 1683902472.209862
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\backends\base.py first seen with mtime 1669061126.7512648
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1669061126.2179775
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0004_alter_user_username_opts.py first seen with mtime 1669061124.6356852
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\context_processors.py first seen with mtime 1669061124.2178433
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0012_alter_user_first_name_max_length.py first seen with mtime 1669061124.6456947
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\migrations\0003_logentry_add_action_flag_choices.py first seen with mtime 1669061123.0619714
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\loader.py first seen with mtime 1669061127.6494582
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\__init__.py first seen with mtime 1669061124.646702
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\exceptions.py first seen with mtime 1669061126.7452638
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\migrations\0002_remove_content_type_name.py first seen with mtime 1669061124.9548237
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1669061126.7562656
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0008_alter_user_username_max_length.py first seen with mtime 1669061124.6407008
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0009_alter_user_last_name_max_length.py first seen with mtime 1669061124.642686
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\migrations\recorder.py first seen with mtime 1669061127.65846
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\contenttypes\migrations\0001_initial.py first seen with mtime 1669061124.9538238
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\db\models\sql\compiler.py first seen with mtime 1669061127.782685
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1669061126.7492642
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0010_alter_group_name_max_length.py first seen with mtime 1669061124.6436892
+(0.000) SELECT "main_categoryproductmodel"."id", "main_categoryproductmodel"."name", "main_categoryproductmodel"."description" FROM "main_categoryproductmodel" ORDER BY "main_categoryproductmodel"."name" ASC; args=()
+"GET /category_print/ HTTP/1.1" 200 2943
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1669061126.2229786
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1669061126.2189782
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0001_initial.py first seen with mtime 1669061124.6306581
+File D:\־ׁ 2סול\WEB\os6\main\migrations\0003_alter_productmodel_buy.py first seen with mtime 1683833428.6092484
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0003_alter_user_email_max_length.py first seen with mtime 1669061124.6346827
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\context_processors.py first seen with mtime 1669061126.2119763
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\template\context_processors.py first seen with mtime 1669061128.0161772
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\migrations\0002_logentry_remove_auto_add.py first seen with mtime 1669061123.0599635
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0007_alter_validators_add_error_messages.py first seen with mtime 1669061124.639701
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0002_alter_permission_name_max_length.py first seen with mtime 1669061124.632657
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\sessions\migrations\__init__.py first seen with mtime 1669061127.031575
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\auth\migrations\0005_alter_user_last_login_null.py first seen with mtime 1669061124.6376932
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\admin\migrations\__init__.py first seen with mtime 1669061123.0629725
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\middleware.py first seen with mtime 1669061126.2129767
+File D:\־ׁ 2סול\WEB\os6\main\migrations\0001_initial.py first seen with mtime 1683830253.5361335
+File C:\Users\User\AppData\Roaming\Python\Python310\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1669061126.2209785
+(0.000) SELECT "main_productpricemodel"."id", "main_productpricemodel"."name", "main_productpricemodel"."price_currency", "main_productpricemodel"."price", "main_productpricemodel"."product_id" FROM "main_productpricemodel" ORDER BY "main_productpricemodel"."name" ASC; args=()
+"GET /price_print/ HTTP/1.1" 200 2903
+(0.016) SELECT "main_productpricemodel"."id", "main_productpricemodel"."name", "main_productpricemodel"."price_currency", "main_productpricemodel"."price", "main_productpricemodel"."product_id" FROM "main_productpricemodel" ORDER BY "main_productpricemodel"."name" ASC; args=()
+"GET /product_print/ HTTP/1.1" 200 2918
+"GET / HTTP/1.1" 200 1030
+File D:\־ׁ 2סול\WEB\os6\os6\settings.py previous mtime: 1683903842.6137636, current mtime: 1683904020.5548215
+D:\־ׁ 2סול\WEB\os6\os6\settings.py notified as changed. Signal results: [(<function template_changed at 0x00000197F1300160>, None), (<function translation_file_changed at 0x00000197F1FAD2D0>, None)].
+D:\־ׁ 2סול\WEB\os6\os6\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /product_print/ HTTP/1.1" 200 2918
+"GET / HTTP/1.1" 200 1030
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /product_print/ HTTP/1.1" 200 2918
+"GET / HTTP/1.1" 200 1030
+"GET / HTTP/1.1" 200 1030
+"GET / HTTP/1.1" 200 1030
+"GET /store_print/ HTTP/1.1" 200 2906
+"GET /category_print/ HTTP/1.1" 200 2943
+"GET /price_print/ HTTP/1.1" 200 2903
+"GET /product_print/ HTTP/1.1" 200 2918
+D:\־ׁ 2סול\WEB\os6\os6\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+D:\־ׁ 2סול\WEB\os6\os6\settings.py changed, reloading.
